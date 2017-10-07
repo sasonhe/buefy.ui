@@ -5,6 +5,7 @@ import VueResource from 'vue-resource'
 import App from './App.vue'
 import Buefy from 'buefy'
 import 'buefy/lib/buefy.css'
+import './assets/css/font-awesome.css'
 // 引入路由配置
 import routes from './router.config'
 // 注册路由
